@@ -1,6 +1,3 @@
-cordova.define("com.pushudp.PushUDP.PushUDP", function(require, exports, module) {
-	
-
 var PushUDP = {
     createEvent: function(url, port, location, successCallback, errorCallback) {
         cordova.exec(
@@ -18,5 +15,3 @@ var PushUDP = {
 }
 
 module.exports = PushUDP;
-
-});
