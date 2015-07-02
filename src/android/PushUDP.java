@@ -1,4 +1,4 @@
-package com.pushudp;
+package org.seanheinen.pushudp;
 
 import org.apache.cordova.CallbackContext;
 import org.apache.cordova.CordovaPlugin;
